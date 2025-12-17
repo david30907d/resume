@@ -1,12 +1,12 @@
 # TAI-WEI CHANG (張泰瑋)
 
 **Founder / Product-Oriented Full-Stack Engineer**
-📍 Japan / Remote
-🔗 LinkedIn: [https://tw.linkedin.com/in/chang-tai-wei-644925139](https://tw.linkedin.com/in/chang-tai-wei-644925139)
-🔗 GitHub: [https://github.com/david30907d](https://github.com/david30907d)
-🔗 Product: [https://all-weather-protocol.on.fleek.co/](https://all-weather-protocol.on.fleek.co/)
+* 📍 Japan / Remote
+* 🔗 LinkedIn: [https://tw.linkedin.com/in/chang-tai-wei-644925139](https://tw.linkedin.com/in/chang-tai-wei-644925139)
+* 🔗 GitHub: [https://github.com/david30907d](https://github.com/david30907d)
+* 🔗 Product: [https://all-weather-protocol.on.fleek.co/](https://all-weather-protocol.on.fleek.co/)
 
-> Founder of **All Weather Protocol** — *Click Once, Farm the Best Forever!*
+> Founder of **Zap Pilot** — *Your Portfolio. Guided by Market Sentiment!*
 
 ---
 
