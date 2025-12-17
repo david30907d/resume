@@ -16,7 +16,10 @@ Product-oriented full-stack engineer and founder with 8+ years of experience bui
 
 ## Core Skills
 
-Python · Node.js · Go · Solidity · Kubernetes · Terraform · PostgreSQL · BigQuery · GCP · AWS
+*   **Web & Backend Development:** Python, TypeScript, Node.js, Go, FastAPI, Next.js, React
+*   **Blockchain Development:** Solidity, EVM, Web3.js/ethers.js, Smart Contract Security
+*   **Data Engineering & Analytics:** Airflow, BigQuery, PostgreSQL, Data Modeling, ETL/ELT
+*   **Cloud & DevOps:** GCP, AWS, Kubernetes, Terraform, Docker, CI/CD
 
 ---
 
