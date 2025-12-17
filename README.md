@@ -66,12 +66,7 @@ Product-oriented full-stack engineer and founder with 8+ years of experience bui
 
 ---
 
-## Education
+## Education & Languages
 
-Bachelor’s Degree (Related Field)
-
----
-
-## Languages
-
-Mandarin (Native) · English (TOEIC 845) · Japanese (JLPT N2)
+* Bachelor’s Degree (Related Field)
+* Mandarin (Native) · English (TOEIC 845) · Japanese (JLPT N2)
