@@ -4,7 +4,7 @@
 * 📍 Japan / Remote
 * 🔗 LinkedIn: [https://tw.linkedin.com/in/chang-tai-wei-644925139](https://tw.linkedin.com/in/chang-tai-wei-644925139)
 * 🔗 GitHub: [https://github.com/david30907d](https://github.com/david30907d)
-* 🔗 Product: [https://all-weather-protocol.on.fleek.co/](https://all-weather-protocol.on.fleek.co/)
+* 🔗 Product: <https://www.zap-pilot.org/>
 
 > Founder of **Zap Pilot** — *Your Portfolio. Guided by Market Sentiment!*
 
@@ -86,7 +86,7 @@ NAOS Finance is a decentralized real-world-asset (RWA) lending protocol.
 
 ### Consensus DAO — Co-Founder
 
-*Sep 2022 – Present*
+*Sep 2022 – Dec 2022*
 
 * Co-founded a Web3-native NGO inspired by COSCUP, focused on bringing blockchain technology to the general public.
 * Organized a decentralized tech conference and managed DAO operations.
