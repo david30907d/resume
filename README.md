@@ -1,10 +1,11 @@
 # TAI-WEI CHANG (張泰瑋)
 
-**Founder / Product-Oriented Full-Stack Engineer**
-Japan · Remote
-* LinkedIn: [https://tw.linkedin.com/in/chang-tai-wei-644925139](https://tw.linkedin.com/in/chang-tai-wei-644925139)
-* GitHub: [https://github.com/david30907d](https://github.com/david30907d)
-* Product: <https://www.zap-pilot.org/>
+## Founder / Product-Oriented Full-Stack Engineer
+
+📍 Tokyo, Japan · On-site or Remote (Open to either)
+
+* **LinkedIn**: [https://tw.linkedin.com/in/chang-tai-wei-644925139](https://tw.linkedin.com/in/chang-tai-wei-644925139)  
+* **GitHub**:   [https://github.com/david30907d](https://github.com/david30907d)
 
 ---
 
