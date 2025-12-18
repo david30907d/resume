@@ -1,10 +1,11 @@
 # TAI-WEI CHANG (張泰瑋)
 
-Founder / Product-Oriented Engineer (AI & Data Systems)  
-Japan · Remote  
-LinkedIn: https://tw.linkedin.com/in/chang-tai-wei-644925139  
-GitHub: https://github.com/david30907d  
+## Founder / Product‑Oriented Engineer (AI & Data Systems)
 
+📍 Tokyo, Japan · On-site or Remote (Open to either)
+
+* **LinkedIn**: [https://tw.linkedin.com/in/chang-tai-wei-644925139](https://tw.linkedin.com/in/chang-tai-wei-644925139)  
+* **GitHub**:   [https://github.com/david30907d](https://github.com/david30907d)
 ---
 
 ## Summary
@@ -15,11 +16,11 @@ Product-oriented engineer and founder with 8+ years of experience building 0→1
 
 ## Core Skills
 
-**Product & Engineering:** Python, TypeScript, Node.js, FastAPI, Next.js, React  
-**Data & AI Foundations:** Data modeling, ETL/ELT, analytics pipelines, data quality design  
-**Automation & Integration:** Workflow automation, API & SaaS integration (Notion, external tools)  
-**Infrastructure:** GCP, AWS, Docker, Kubernetes, Terraform, CI/CD  
-**Databases:** PostgreSQL, BigQuery  
+* **Product & Engineering:** Python, TypeScript, Node.js, FastAPI, Next.js, React  
+* **Data & AI Foundations:** Data modeling, ETL/ELT, analytics pipelines, data quality design  
+* **Automation & Integration:** Workflow automation, API & SaaS integration (Notion, external tools)  
+* **Infrastructure:** GCP, AWS, Docker, Kubernetes, Terraform, CI/CD  
+* **Databases:** PostgreSQL, BigQuery  
 
 ---
 
