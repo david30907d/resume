@@ -34,28 +34,90 @@ Product-oriented full-stack engineer and founder with 8+ years of experience bui
 * Led early community building and product validation.
 * Achieved **25% APR** with **$280K+ TVL**.
 
+### Candy Shop — Senior Blockchain Engineer
+
+*Nov 2022 – Feb 2023*
+
+* Contributed to an NFT commerce platform positioned as the “Shopify for NFTs,” enabling one-click storefront launches.
+* Migrated an existing Solana-based NFT storefront architecture to the EVM ecosystem (Polygon).
+* Integrated OpenSea contracts and performed end-to-end testing across smart contracts, backend services, and user flows.
+* Delivered core functionality under rapid execution constraints before company wind-down.
+
+---
+
 ### NAOS Finance — Senior Backend Engineer
 
 *Sep 2022 – Nov 2023*
 
-* Refactored V1 backend into a microservice architecture using Helm and ethers.js.
-* Enabled independent scaling of TVL, APR APIs, and NFT indexers.
+* Refactored a V1 backend system for a decentralized RWA lending protocol to improve maintainability and scalability.
+* Designed and implemented a microservice-based architecture using Helm and ethers.js.
+* Built and separated services for TVL metrics, APR calculation APIs, and NFT indexing.
+* Enabled independent scaling and deployment of core backend components.
+
+---
+
+### Consensus DAO — Co-Founder
+
+*Sep 2022 – Present*
+
+* Co-founded a Web3-native NGO inspired by COSCUP to promote blockchain adoption among general audiences.
+* Organized a decentralized technology conference and managed DAO operations.
+* Designed and maintained DAO multisig governance using Safe.
+
+---
+
+### Doorstead — Software Engineer
+
+*Dec 2021 – Jul 2022*
+
+* Supported internal tooling for a property management platform providing guaranteed rental income to landlords.
+* Addressed code review and deployment limitations of an on-prem Retool setup.
+* Implemented infrastructure-as-code using Terraform to enable GitHub integration and reproducible deployments.
+* Improved infrastructure robustness, maintainability, and operational clarity.
+
+---
 
 ### Tresl — Software Engineer
 
 *Oct 2020 – Dec 2021*
 
-* Solved severe performance bottlenecks caused by heavy runtime joins.
-* Redesigned data models using denormalization.
-* Achieved **10× query performance improvement** on datasets exceeding **120M rows**.
+* Improved performance of a data marketing platform ingesting large-scale Shopify datasets.
+* Identified severe latency caused by heavy runtime join queries across multiple product pages.
+* Redesigned data models using denormalization and a three-layer database architecture inspired by Alibaba practices.
+* Achieved **~10× query performance improvement** on datasets exceeding **120M rows**.
+
+---
+
+### PyCon Taiwan — Data Team Lead
+
+*Mar 2020 – Present*
+
+* Established the organization’s first data team to drive data-informed decision-making.
+* Defined team vision, onboarded volunteers, and conducted regular 1-on-1 mentoring.
+* Deployed Metabase for organization-wide analytics access.
+* Achieved **~50% volunteer retention** and adoption across three internal teams.
+
+---
+
+### Atgenomix — Senior Data Engineer
+
+*Apr 2020 – Sep 2020*
+
+* Built parallel genome phasing and imputation pipelines using Apache Spark.
+* Improved CI/CD pipelines by **~3×** using GitHub Actions.
+* Reduced Docker image size by **~30%** through multi-stage build optimization.
+
+---
 
 ### Dcard — Junior Data Engineer
 
 *Jul 2018 – Mar 2020*
 
-* Designed a multi-layer recommendation system and feature store from scratch.
-* Served personalized feeds to **1M+ users** via Kubernetes and GCP Pub/Sub.
-* Increased total user engagement by **10%**.
+* Contributed to recommendation systems for one of Taiwan’s largest social platforms.
+* Designed a multi-layer recommendation architecture and feature store from scratch.
+* Integrated multiple algorithms into a unified personalized feed system.
+* Served personalized content to **1M+ users** using Kubernetes and GCP Pub/Sub.
+* Increased overall user engagement by **~10%**.
 
 ---
 
