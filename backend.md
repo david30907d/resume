@@ -47,8 +47,6 @@ Python / TypeScript を中心とした Web バックエンド、データ基盤�
 **2023/03 – 現在**
 - FastAPI + Next.js を軸とした Web/Backend/Batch を設計・開発
 - Supabase / Firestore / Cloud Run / Cloud Scheduler による運用基盤を構築
-- Cloud TTS + Embedding による自動コンテンツ配信ワークフローを構築
-- LLM 統合（Embedding, Vector Search, Retrieval Pipeline, Structured Output）
 - **実績:** 最大利回り 25% APR、TVL $280K+、継続利用ユーザー獲得
 
 ### Candy Shop — Senior Blockchain Engineer
