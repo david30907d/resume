@@ -59,7 +59,7 @@ Product-oriented full-stack engineer and founder with 8+ years of experience bui
 
 ### Consensus DAO — Co-Founder
 
-*Sep 2022 – Present*
+*Sep 2022 – Dec 2022*
 
 * Co-founded a Web3-native NGO inspired by COSCUP to promote blockchain adoption among general audiences.
 * Organized a decentralized technology conference and managed DAO operations.
@@ -91,7 +91,7 @@ Product-oriented full-stack engineer and founder with 8+ years of experience bui
 
 ### PyCon Taiwan — Data Team Lead
 
-*Mar 2020 – Present*
+*Mar 2020 – Mar 2023*
 
 * Established the organization’s first data team to drive data-informed decision-making.
 * Defined team vision, onboarded volunteers, and conducted regular 1-on-1 mentoring.
