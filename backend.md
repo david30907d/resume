@@ -28,7 +28,7 @@ Python / TypeScript を中心とした Web バックエンド、データ基盤�
 ### AI / 機械学習・推薦システム
 - **古典ML:** Word2Vec, LSTM, CNN, Collaborative Filtering
 - **応用分野:** レコメンド、ランキング、埋め込み、特徴量設計
-- **LLM統合:** OpenAI / Gemini / Embeddings / Vector Search / RAG
+- **LLM統合:** Embeddings / Vector Search
 - **注記:** 研究ではなく、プロダクション統合やデータパイプラインを担当
 
 ### クラウド・DevOps
