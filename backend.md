@@ -49,7 +49,7 @@ Strong focus on Python/TypeScript backends, distributed systems, and operational
 - Integrated external APIs and improved end-to-end service reliability
 
 ### NAOS Finance — Senior Backend Engineer  
-**2022/09 – 2023/11**
+**2022/09 – 2022/11**
 - Refactored a lending protocol backend using Go/Node.js
 - Decomposed monolith into microservices for indexing, lending, and asset modules
 - Improved observability, fault isolation, and scaling characteristics
