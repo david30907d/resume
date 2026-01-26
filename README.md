@@ -48,7 +48,7 @@ Product-oriented full-stack engineer and founder with 8+ years of experience bui
 
 ### NAOS Finance — Senior Backend Engineer
 
-*Sep 2022 – Nov 2023*
+*Sep 2022 – Nov 2022*
 
 * Refactored a V1 backend system for a decentralized RWA lending protocol to improve maintainability and scalability.
 * Designed and implemented a microservice-based architecture using Helm and ethers.js.
