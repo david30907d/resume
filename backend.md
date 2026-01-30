@@ -87,4 +87,4 @@ Strong focus on Python/TypeScript backends, distributed systems, and operational
 - **Bachelor’s Degree:** Related field  
 - **Chinese:** Native  
 - **English:** TOEIC 845 (business-capable)  
-- **Japanese:** JLPT N2 (reading & writing; conversation in progress)
+- **Japanese:** JLPT N1 (reading & writing; conversation in progress)
