@@ -1,6 +1,6 @@
 # 職務経歴書
 
-**氏名：** Tai-Wei Chang (タイウェイ・チャン / TAI-WEI CHANG)  
+**氏名：** Tai-Wei Chang (チョウタイイ / TAI-WEI CHANG)  
 **職種：** Senior Backend Engineer / Full-Stack Engineer  
 **所在地：** Tokyo, Japan (Open to Onsite / Remote)
 
